@@ -1,0 +1,6 @@
+{
+  "name": "SON BARKA AI",
+  "description": "AI Video, Photo, and Voice Studio specializing in authentic Hausa and Fulfulde storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
